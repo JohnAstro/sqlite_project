@@ -1,2 +1,2 @@
 # sqlite_project
-Creates a SQLite database with the provided csv files. The proper relations between the tables were implemented as well as adding and deleting entries through update.py 
+Creates an SQLite database with the provided csv files. The proper relations between the tables were implemented as well as addition and deletion of entries through update.py, given a command in the terminal
